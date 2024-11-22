@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AgeCalculator</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_year_of_birth">Enter Year of Birth</string>
+    <string name="i_agree_to_terms_and_conditions">I agree to terms and conditions</string>
+    <string name="cat1_prac">CAT1 PRAC</string>
+    <string name="calculate_age">Calculate Age</string>
+</resources>
